@@ -1,0 +1,68 @@
+*{
+    margin:0px;
+}
+
+
+main{
+    width: 960px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+header{
+    background-color: cadetblue;
+    height: 75px;
+    color:white;
+
+}
+header h1{
+    text-align: center;
+    padding-top: 18px;
+}
+
+aside{
+    background-color: lightgray;
+    width: 200px;
+    float: left;
+    height: 500px;
+}
+
+aside ul{
+    margin-top:10px;
+    padding-left:15px;
+}
+aside ul li{
+    font-weight: bold;
+}
+
+section{
+    float: right;
+    background-color: gainsboro;
+    width: 750px;
+    height: 500px;
+}
+
+section p{
+    
+    text-align: justify;
+    margin: 0px 10px;
+
+}
+
+section h3{
+    margin: 0px 10px;
+    margin-top:5px;
+    border-bottom: 0.5px solid gray;
+}
+
+footer{
+    height: 80px;
+    background-color: whitesmoke;
+    width: 960px;
+    clear:both;
+}
+
+
+
+
+
